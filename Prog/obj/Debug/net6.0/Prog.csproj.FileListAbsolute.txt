@@ -1,0 +1,15 @@
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\Prog.csproj.AssemblyReference.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\Prog.AssemblyInfoInputs.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\Prog.AssemblyInfo.cs
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\Prog.csproj.CoreCompileInputs.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\bin\Debug\net6.0\Prog.exe
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\bin\Debug\net6.0\Prog.deps.json
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\bin\Debug\net6.0\Prog.runtimeconfig.json
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\bin\Debug\net6.0\Prog.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\bin\Debug\net6.0\Prog.pdb
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\Prog.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\refint\Prog.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\Prog.pdb
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\Prog.genruntimeconfig.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\Block1\Prog\obj\Debug\net6.0\ref\Prog.dll
